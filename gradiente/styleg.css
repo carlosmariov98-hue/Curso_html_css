@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(80, 80, 215);
+    margin: 0;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(to top, transparent, rgb(96, 208, 214));
+    border-radius: 7px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-top: 6px solid #900;
+}
+h1{
+    margin: 0;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 300px;
+}

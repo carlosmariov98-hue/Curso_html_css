@@ -1,0 +1,24 @@
+body{
+    text-align: justify;
+    background-color: rgb(113, 179, 113);
+    padding: 50px;
+    margin: 0;
+    font-family: sans-serif;
+    color: #fff;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    margin: 20px;
+    background:url("https://i.pinimg.com/originals/b1/3d/a3/b13da3906d4f03e0f1ce818238d188a4.gif") left/ 550px no-repeat fixed #f3e5;
+    margin: 0;
+}
+.opaco{
+    height: 100%;
+    width: 100%;
+    background-color: #0007;
+}
+h2{
+    padding: 200px;
+    text-align: center;
+}
